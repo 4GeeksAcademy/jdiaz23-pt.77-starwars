@@ -1,0 +1,8 @@
+body {
+  background-image: url("https://t4.ftcdn.net/jpg/03/28/70/97/360_F_328709716_Pi6p9Es9517TpXQIGvwRwA1lu4O1Rn7h.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
